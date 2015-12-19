@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ''' 
-A Very Rocca Christmas, 2015
+Rocca ChristmasPi, 2015
 Developed by Peter Goodlad
 Rocca Creative 2015
 https://www.roccacreative.co.uk
